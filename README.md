@@ -7,7 +7,7 @@ This is a fork of fancy_on_boarding.
 
 <img src="https://user-images.githubusercontent.com/107174897/173245602-cec1ce12-d88e-4f70-9787-6929d3635551.gif" height="400" alt="GIF"/>
 
-
+<!---
 ## 💻 Installation
 In the `dependencies:` section of your `pubspec.yaml`, add the following line:
 
@@ -251,28 +251,24 @@ import 'package:fancy_on_boarding/fancy_on_boarding.dart';
     </tr>
     
 </table>
+--->
 
 
-# 👍 How to Contribute
-1. Fork it
-2. Create your feature branch (git checkout -b my-new-feature)
-3. Commit your changes (git commit -am 'Add some feature')
-4. Push to the branch (git push origin my-new-feature)
-5. Create new Pull Request
+# 📃 License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# 📃 License
-
-    Copyright (c) 2018 Sahil Kumar
-	Copyright (c) 2022 FurryProtogen
+  ### MIT license<br>
+  Copyright (c) 2018 Sahil Kumar<br>
+  Copyright (c) 2022 FurryProtogen
     
     Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
     
     The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
     
     THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
+<!---
 ## Getting Started
 
 For help getting started with Flutter, view our online [documentation](https://flutter.io/).
 
 For help on editing package code, view the [documentation](https://flutter.io/developing-packages/).
+--->
